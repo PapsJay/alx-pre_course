@@ -1,1 +1,1 @@
-THis is an update of the main README file
+THis is an update of the main README file.
